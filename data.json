@@ -1,325 +1,362 @@
 {
-  "name": "SMP Swasta RK Serdang Murni",
-  "tag": "Sekolah Menengah Pertama Katolik · Akreditasi A · NPSN 10213943",
-  "hero": "",
-  "about": "SMP Swasta RK Serdang Murni berada di Lubuk Pakam, Kabupaten Deli Serdang, Sumatera Utara, dan dikelola oleh Yayasan Perguruan Katolik Don Bosco Keuskupan Agung Medan. Sekolah ini terakreditasi A (nilai 91), memiliki 15 guru dan 313 siswa dengan 10 rombongan belajar. (Tambahkan sejarah singkat sekolah di sini.)",
-  "visi": "Menjadi sekolah yang unggul dalam iman, ilmu, dan pelayanan.",
-  "misi": [
-    "Menumbuhkan iman dan karakter Katolik",
-    "Menyelenggarakan pembelajaran yang bermutu",
-    "Mengembangkan bakat dan minat siswa",
-    "Membangun semangat pelayanan kepada masyarakat"
+ "name": "SMP Swasta RK Serdang Murni",
+ "tag": "Sekolah Menengah Pertama Katolik · Akreditasi A · NPSN 10213943",
+ "hero": "",
+ "about": "SMP Swasta RK Serdang Murni berada di Lubuk Pakam, Kabupaten Deli Serdang, Sumatera Utara, dan dikelola oleh Yayasan Perguruan Katolik Don Bosco Keuskupan Agung Medan. Sekolah ini terakreditasi A (nilai 91), memiliki 15 guru dan 313 siswa dengan 10 rombongan belajar. (Tambahkan sejarah singkat sekolah di sini.)",
+ "visi": "Menjadi sekolah yang unggul dalam iman, ilmu, dan pelayanan.",
+ "misi": [
+  "Menumbuhkan iman dan karakter Katolik",
+  "Menyelenggarakan pembelajaran yang bermutu",
+  "Mengembangkan bakat dan minat siswa",
+  "Membangun semangat pelayanan kepada masyarakat"
+ ],
+ "stats": [
+  [
+   "Siswa",
+   "313"
   ],
-  "stats": [
+  [
+   "Guru",
+   "15"
+  ],
+  [
+   "Rombel",
+   "10"
+  ],
+  [
+   "Akreditasi",
+   "A"
+  ]
+ ],
+ "tabel": [
+  {
+   "j": "Siswa Menurut Jenis Kelamin",
+   "h": [
+    "Kategori",
+    "Jumlah"
+   ],
+   "r": [
     [
-      "Siswa",
-      "313"
+     "Laki-laki",
+     "193"
     ],
     [
-      "Guru",
-      "15"
+     "Perempuan",
+     "120"
     ],
     [
-      "Rombel",
-      "10"
-    ],
-    [
-      "Akreditasi",
-      "A"
+     "Total",
+     "313"
     ]
-  ],
-  "tabel": [
-    {
-      "j": "Siswa Menurut Jenis Kelamin",
-      "h": [
-        "Kategori",
-        "Jumlah"
-      ],
-      "r": [
-        [
-          "Laki-laki",
-          "193"
-        ],
-        [
-          "Perempuan",
-          "120"
-        ],
-        [
-          "Total",
-          "313"
-        ]
-      ]
-    },
-    {
-      "j": "Siswa Menurut Usia",
-      "h": [
-        "Usia",
-        "Jumlah"
-      ],
-      "r": [
-        [
-          "12 tahun",
-          "74"
-        ],
-        [
-          "13 tahun",
-          "116"
-        ],
-        [
-          "14 tahun",
-          "102"
-        ],
-        [
-          "15 tahun",
-          "20"
-        ],
-        [
-          "16 tahun",
-          "1"
-        ]
-      ]
-    },
-    {
-      "j": "Siswa Menurut Agama",
-      "h": [
-        "Agama",
-        "Laki-laki",
-        "Perempuan",
-        "Jumlah"
-      ],
-      "r": [
-        [
-          "Kristen",
-          "116",
-          "83",
-          "199"
-        ],
-        [
-          "Katolik",
-          "76",
-          "36",
-          "112"
-        ],
-        [
-          "Buddha",
-          "1",
-          "1",
-          "2"
-        ]
-      ]
-    },
-    {
-      "j": "Riwayat Akreditasi",
-      "h": [
-        "Tahun",
-        "SK Penetapan",
-        "Tanggal SK",
-        "Berlaku s.d.",
-        "Nilai",
-        "Peringkat"
-      ],
-      "r": [
-        [
-          "2023",
-          "555/BAN-SM/SK/2023",
-          "25 Mei 2023",
-          "11 Okt 2028",
-          "91",
-          "A"
-        ],
-        [
-          "2018",
-          "789/BANSM/PROVSU/LL/X/2018",
-          "10 Okt 2018",
-          "10 Okt 2023",
-          "91",
-          "A"
-        ]
-      ]
-    },
-    {
-      "j": "Guru",
-      "h": [
-        "Keterangan",
-        "Data"
-      ],
-      "r": [
-        [
-          "Jumlah guru",
-          "15"
-        ],
-        [
-          "Guru tetap yayasan (GTY)",
-          "14"
-        ],
-        [
-          "Guru berkualifikasi",
-          "93,33%"
-        ],
-        [
-          "Guru tersertifikasi",
-          "93,33%"
-        ],
-        [
-          "Rasio siswa per guru",
-          "21"
-        ]
-      ]
-    },
-    {
-      "j": "Tenaga Pendidikan",
-      "h": [
-        "Keterangan",
-        "Jumlah"
-      ],
-      "r": [
-        [
-          "Total",
-          "20"
-        ],
-        [
-          "Laki-laki",
-          "7"
-        ],
-        [
-          "Perempuan",
-          "13"
-        ],
-        [
-          "Golongan I",
-          "20"
-        ],
-        [
-          "Ijazah S1 atau lebih",
-          "16"
-        ],
-        [
-          "Ijazah data kosong",
-          "4"
-        ],
-        [
-          "Usia di bawah 30 tahun",
-          "5"
-        ],
-        [
-          "Usia 31-35 tahun",
-          "4"
-        ],
-        [
-          "Usia 36-40 tahun",
-          "4"
-        ],
-        [
-          "Usia 41-45 tahun",
-          "2"
-        ],
-        [
-          "Usia belum tercatat",
-          "5"
-        ]
-      ]
-    },
-    {
-      "j": "Fasilitas dan Utilitas",
-      "h": [
-        "Keterangan",
-        "Data"
-      ],
-      "r": [
-        [
-          "Ruang kelas",
-          "15"
-        ],
-        [
-          "Laboratorium",
-          "2"
-        ],
-        [
-          "Perpustakaan",
-          "1"
-        ],
-        [
-          "Luas tanah",
-          "6.000 m²"
-        ],
-        [
-          "Sumber listrik",
-          "PLN, 23.000 VA"
-        ],
-        [
-          "Akses internet",
-          "Shared"
-        ],
-        [
-          "Penyelenggaraan",
-          "Pagi / 6 hari"
-        ],
-        [
-          "Rasio siswa per rombel",
-          "32"
-        ]
-      ]
-    }
-  ],
-  "prestasi": [
-    [
-      "2025",
-      "Juara 1 Lomba Contoh (isi prestasi)",
-      "Tingkat Kota"
-    ],
-    [
-      "2024",
-      "Juara 2 Olimpiade Contoh",
-      "Tingkat Provinsi"
-    ]
-  ],
-  "galeri": [
-    "",
-    "",
-    ""
-  ],
-  "sambutan": {
-    "nama": "(Nama Kepala Sekolah)",
-    "teks": "(Tulis sambutan kepala sekolah di sini lewat mode admin.)",
-    "foto": ""
+   ]
   },
-  "ekskul": [
+  {
+   "j": "Siswa Menurut Usia",
+   "h": [
+    "Usia",
+    "Jumlah"
+   ],
+   "r": [
     [
-      "⚽",
-      "Futsal",
-      "(contoh) Latihan setiap Sabtu"
+     "12 tahun",
+     "74"
     ],
     [
-      "🎵",
-      "Paduan Suara",
-      "(contoh) Mengisi misa dan acara sekolah"
+     "13 tahun",
+     "116"
     ],
     [
-      "⛺",
-      "Pramuka",
-      "(contoh) Kegiatan kepanduan"
+     "14 tahun",
+     "102"
     ],
     [
-      "🎨",
-      "Seni Rupa",
-      "(contoh) Melukis dan kerajinan"
+     "15 tahun",
+     "20"
+    ],
+    [
+     "16 tahun",
+     "1"
     ]
-  ],
-  "berita": [
+   ]
+  },
+  {
+   "j": "Siswa Menurut Agama",
+   "h": [
+    "Agama",
+    "Laki-laki",
+    "Perempuan",
+    "Jumlah"
+   ],
+   "r": [
     [
-      "19 November 2026",
-      "Judul berita contoh",
-      "Isi singkat berita kegiatan sekolah. Ganti lewat mode admin.",
-      ""
+     "Kristen",
+     "116",
+     "83",
+     "199"
+    ],
+    [
+     "Katolik",
+     "76",
+     "36",
+     "112"
+    ],
+    [
+     "Buddha",
+     "1",
+     "1",
+     "2"
     ]
+   ]
+  },
+  {
+   "j": "Riwayat Akreditasi",
+   "h": [
+    "Tahun",
+    "SK Penetapan",
+    "Tanggal SK",
+    "Berlaku s.d.",
+    "Nilai",
+    "Peringkat"
+   ],
+   "r": [
+    [
+     "2023",
+     "555/BAN-SM/SK/2023",
+     "25 Mei 2023",
+     "11 Okt 2028",
+     "91",
+     "A"
+    ],
+    [
+     "2018",
+     "789/BANSM/PROVSU/LL/X/2018",
+     "10 Okt 2018",
+     "10 Okt 2023",
+     "91",
+     "A"
+    ]
+   ]
+  },
+  {
+   "j": "Guru",
+   "h": [
+    "Keterangan",
+    "Data"
+   ],
+   "r": [
+    [
+     "Jumlah guru",
+     "15"
+    ],
+    [
+     "Guru tetap yayasan (GTY)",
+     "14"
+    ],
+    [
+     "Guru berkualifikasi",
+     "93,33%"
+    ],
+    [
+     "Guru tersertifikasi",
+     "93,33%"
+    ],
+    [
+     "Rasio siswa per guru",
+     "21"
+    ]
+   ]
+  },
+  {
+   "j": "Tenaga Pendidikan",
+   "h": [
+    "Keterangan",
+    "Jumlah"
+   ],
+   "r": [
+    [
+     "Total",
+     "20"
+    ],
+    [
+     "Laki-laki",
+     "7"
+    ],
+    [
+     "Perempuan",
+     "13"
+    ],
+    [
+     "Golongan I",
+     "20"
+    ],
+    [
+     "Ijazah S1 atau lebih",
+     "16"
+    ],
+    [
+     "Ijazah data kosong",
+     "4"
+    ],
+    [
+     "Usia di bawah 30 tahun",
+     "5"
+    ],
+    [
+     "Usia 31-35 tahun",
+     "4"
+    ],
+    [
+     "Usia 36-40 tahun",
+     "4"
+    ],
+    [
+     "Usia 41-45 tahun",
+     "2"
+    ],
+    [
+     "Usia belum tercatat",
+     "5"
+    ]
+   ]
+  },
+  {
+   "j": "Fasilitas dan Utilitas",
+   "h": [
+    "Keterangan",
+    "Data"
+   ],
+   "r": [
+    [
+     "Ruang kelas",
+     "15"
+    ],
+    [
+     "Laboratorium",
+     "2"
+    ],
+    [
+     "Perpustakaan",
+     "1"
+    ],
+    [
+     "Luas tanah",
+     "6.000 m²"
+    ],
+    [
+     "Sumber listrik",
+     "PLN, 23.000 VA"
+    ],
+    [
+     "Akses internet",
+     "Shared"
+    ],
+    [
+     "Penyelenggaraan",
+     "Pagi / 6 hari"
+    ],
+    [
+     "Rasio siswa per rombel",
+     "32"
+    ]
+   ]
+  }
+ ],
+ "prestasi": [
+  [
+   "2025",
+   "Juara 1 Lomba Contoh (isi prestasi)",
+   "Tingkat Kota"
   ],
-  "warna": "",
-  "kontak": [
-    "Jl. P. Siantar No. 142 A, Lubuk Pakam, Kec. Lubuk Pakam, Kab. Deli Serdang, Sumatera Utara",
-    "0617951545",
-    "smp_rksmurni@yahoo.com"
+  [
+   "2024",
+   "Juara 2 Olimpiade Contoh",
+   "Tingkat Provinsi"
+  ]
+ ],
+ "galeri": [
+  "",
+  "",
+  ""
+ ],
+ "sambutan": {
+  "nama": "(Nama Kepala Sekolah)",
+  "teks": "(Tulis sambutan kepala sekolah di sini lewat mode admin.)",
+  "foto": ""
+ },
+ "ekskul": [
+  [
+   "⚽",
+   "Futsal",
+   "(contoh) Latihan setiap Sabtu"
   ],
-  "t": {},
-  "menu": {},
-  "hide": {}
+  [
+   "🎵",
+   "Paduan Suara",
+   "(contoh) Mengisi misa dan acara sekolah"
+  ],
+  [
+   "⛺",
+   "Pramuka",
+   "(contoh) Kegiatan kepanduan"
+  ],
+  [
+   "🎨",
+   "Seni Rupa",
+   "(contoh) Melukis dan kerajinan"
+  ],
+  [
+   "⭐",
+   "Ekskul baru",
+   "Deskripsi"
+  ]
+ ],
+ "berita": [
+  [
+   "Tanggal",
+   "Judul berita",
+   "Isi singkat berita.",
+   ""
+  ],
+  [
+   "Tanggal",
+   "Judul berita",
+   "Isi singkat berita.",
+   ""
+  ],
+  [
+   "Tanggal",
+   "Judul berita",
+   "Isi singkat berita.",
+   ""
+  ]
+ ],
+ "warna": "",
+ "kontak": [
+  "Jl. P. Siantar No. 142 A, Lubuk Pakam, Kec. Lubuk Pakam, Kab. Deli Serdang, Sumatera Utara",
+  "0617951545",
+  "smp_rksmurni@yahoo.com"
+ ],
+ "t": {},
+ "menu": {
+  "beranda": "Beranda",
+  "profil": "Profil",
+  "kelas": "Data Sekolah",
+  "prestasi": "Prestasi",
+  "galeri": "Galeri",
+  "sambutan": "Sambutan",
+  "ekskul": "Ekskul",
+  "berita": "Berita",
+  "kontak": "Kontak"
+ },
+ "hide": {
+  "beranda": false,
+  "profil": false,
+  "kelas": false,
+  "prestasi": false,
+  "galeri": false,
+  "sambutan": false,
+  "ekskul": false,
+  "berita": false,
+  "kontak": false
+ }
 }
